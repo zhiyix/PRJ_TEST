@@ -1,2 +1,2 @@
 Hello, World!
-Hello,Smart Git!
+Hello, Smart Git!
